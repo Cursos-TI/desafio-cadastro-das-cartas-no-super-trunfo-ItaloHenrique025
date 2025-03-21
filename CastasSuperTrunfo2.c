@@ -7,7 +7,7 @@ int main() {
     float Populacao, Densidade, area, PIB, Capita;
 
     printf("Digite o Nome da Cidade: \n");
-    scanf("%s", &Nome);
+    scanf("%c", &Nome);
     
     printf("Qual o codigo de sua Carta?: \n");
     scanf("%d", &Codigo);
